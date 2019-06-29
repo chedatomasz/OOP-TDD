@@ -1,0 +1,34 @@
+public class Ułamek{
+	public final int licznik, mianownik;
+	Ułamek(int licznik, int mianownik){
+		this.licznik=licznik;
+		this.mianownik=mianownik;
+	}
+	Ułamek(int licznik){
+		this(licznik,1);
+	}
+	private static int nwd(int x, int y)
+		1_000_000_000
+
+	Ułamek dodaj (int liczba){
+		return this.dodaj(newUłamek(liczba));
+	}
+
+Z tym 1_000_000_000
+Chodzi o to, że od jakiegoś czasu w Javie wprowadzono
+Żeby się nie myliło ile jest zer
+Że można tak pisać i to odczytuje bez tych podkreśleń
+Normalnie jak liczbę
+Jeszcze coś takiego
+Ułamek
+dodawanie
+odejmowanie
+mnożenie
+dzielenie
+Grzegorz usunął wiadomość
+Grzegorz usunął wiadomość
+równość/porównywanie
+(*)skrócenie
+wypisywanie
+Coś może jeszcze było na tablicy
+Ale generalnie raczej nieostotne rzeczy
